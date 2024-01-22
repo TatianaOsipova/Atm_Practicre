@@ -2,7 +2,7 @@ package core;
 
 public class Login {
     // username
-    //password
+    // password
 
     // login button
 }
